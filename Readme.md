@@ -25,7 +25,7 @@ My main focus is web development so I do also domain:
 - Webservers (Linux, firebase, google cloud, AWS, Azure)
 - Networks and DNS
 
-# What i do
+# What I do
 Generally speaking I can develop anything web-related using those technologies including but not limited to:
 
 - Website development
