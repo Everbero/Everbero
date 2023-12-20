@@ -63,3 +63,5 @@ is my research so I'm not available for regular positions at the moment.
 ## You can find some of my most recent works and my customers feedback here:
 - 99Freelas [Brazil](https://www.99freelas.com.br/user/3x-web)
 - freelancer.com [International](https://www.freelancer.com/u/douglasfullstack)
+
+> "Thought is the creative force"
