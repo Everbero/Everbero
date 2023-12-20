@@ -1,15 +1,16 @@
-![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-blue)
-![Web Development Expert](https://img.shields.io/badge/Web%20Development-Expert-orange)
-![Researcher in Web Technologies](https://img.shields.io/badge/Web%20Tech-Researcher-yellow)
-![Multi-Linguist Coder](https://img.shields.io/badge/Multi--Linguist%20Coder-green)
-![Linux Server Admin](https://img.shields.io/badge/Linux%20Server-Admin-lightgrey)
-![AWS Specialist](https://img.shields.io/badge/AWS-Specialist-yellowgreen)
-![SEO Consultant](https://img.shields.io/badge/SEO-Consultant-red)
-![Ecommerce Developer](https://img.shields.io/badge/Ecommerce-Developer-blueviolet)
-![Wordpress Plugin Developer](https://img.shields.io/badge/Wordpress-Plugin%20Developer-brightgreen)
-![Mobile App Developer (Ionic)](https://img.shields.io/badge/Mobile%20App%20Dev-Ionic-ff69b4)
-![SPA Maestro](https://img.shields.io/badge/SPA-Maestro-blueviolet)
-![Tech Consultant](https://img.shields.io/badge/Tech-Consultant-orange)
+![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-FFE0E0)
+![Web Development Expert](https://img.shields.io/badge/Web%20Development-Expert-FFD1DC)
+![Researcher in Web Technologies](https://img.shields.io/badge/Web%20Tech-Researcher-FFCEA5)
+![Multi-Linguist Coder](https://img.shields.io/badge/Multi--Linguist%20Coder-FFDAB9)
+![Linux Server Admin](https://img.shields.io/badge/Linux%20Server-Admin-F0E68C)
+![AWS Specialist](https://img.shields.io/badge/AWS-Specialist-E6E6FA)
+![SEO Consultant](https://img.shields.io/badge/SEO-Consultant-B0E0E6)
+![Ecommerce Developer](https://img.shields.io/badge/Ecommerce-Developer-BCD2EE)
+![Wordpress Plugin Developer](https://img.shields.io/badge/Wordpress-Plugin%20Developer-ADD8E6)
+![Mobile App Developer (Ionic)](https://img.shields.io/badge/Mobile%20App%20Dev-Ionic-D8BFD8)
+![SPA Maestro](https://img.shields.io/badge/SPA-Maestro-F5DEB3)
+![Tech Consultant](https://img.shields.io/badge/Tech-Consultant-F5F5DC)
+
 
 # Douglas de Araújo 
 I'm a fullstack developer, here you'll find some of my public repos, they range from simple college exercices to more complex codes. 
