@@ -10,6 +10,9 @@
 ![Mobile App Developer (Ionic)](https://img.shields.io/badge/Mobile%20App%20Dev-Ionic-D8BFD8)
 ![SPA Maestro](https://img.shields.io/badge/SPA-Maestro-F5DEB3)
 ![Tech Consultant](https://img.shields.io/badge/Tech-Consultant-F5F5DC)
+![Tech Lead](https://img.shields.io/badge/Tech%20-Lead-FFA07A)
+![Problems? Solved](https://img.shields.io/badge/Problems%3F%20-Solved-90EE90)
+
 
 
 # Douglas de Araújo 
