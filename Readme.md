@@ -65,3 +65,5 @@ is my research so I'm not available for regular positions at the moment.
 - freelancer.com [International](https://www.freelancer.com/u/douglasfullstack)
 
 > "Thought is the creative force"
+
+![Metrics](/github-metrics.svg)
