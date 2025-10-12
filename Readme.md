@@ -66,4 +66,4 @@ is my research so I'm not available for regular positions at the moment.
 
 > "Thought is the creative force"
 
-![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/everbero)
