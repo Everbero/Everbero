@@ -1,67 +1,114 @@
-![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-FFE0E0)
-![Web Development Expert](https://img.shields.io/badge/Web%20Development-Expert-FFD1DC)
-![Researcher in Web Technologies](https://img.shields.io/badge/Web%20Tech-Researcher-FFCEA5)
-![Multi-Linguist Coder](https://img.shields.io/badge/Multi--Linguist%20Coder-FFDAB9)
-![Linux Server Admin](https://img.shields.io/badge/Linux%20Server-Admin-F0E68C)
-![AWS Specialist](https://img.shields.io/badge/AWS-Specialist-E6E6FA)
-![SEO Consultant](https://img.shields.io/badge/SEO-Consultant-B0E0E6)
-![Ecommerce Developer](https://img.shields.io/badge/Ecommerce-Developer-BCD2EE)
-![Wordpress Plugin Developer](https://img.shields.io/badge/Wordpress-Plugin%20Developer-ADD8E6)
-![Mobile App Developer (Ionic)](https://img.shields.io/badge/Mobile%20App%20Dev-Ionic-D8BFD8)
-![SPA Maestro](https://img.shields.io/badge/SPA-Maestro-F5DEB3)
-![Tech Consultant](https://img.shields.io/badge/Tech-Consultant-F5F5DC)
-![Tech Lead](https://img.shields.io/badge/Tech%20-Lead-FFA07A)
-![Problems? Solved](https://img.shields.io/badge/Problems%3F%20-Solved-90EE90)
+# 🌐 Douglas de Araújo
 
+### Full-Stack Developer • Tech Lead • Founder @ [3X Web](https://3xweb.com.br)
 
+### Building scalable apps, automations, and intelligent web platforms
 
-# Douglas de Araújo 
-I'm a fullstack developer, here you'll find some of my public repos, they range from simple college exercices to more complex codes. 
-Most of my work is for private companies, I'm currently the founder and main developer at [3X Web](https://3xweb.site). 
-Currently i'm enrolled at IFRN (Federal Institute of Science and Technology Education of Rio Grande do Norte) full time and it 
-takes most of my time as I'm doing research on web development technologies.
+[![Fullstack Developer](https://img.shields.io/badge/Fullstack-Developer-FFE0E0)](#)
+[![Web Development Expert](https://img.shields.io/badge/Web%20Development-Expert-FFD1DC)](#)
+[![Cloud Architect](https://img.shields.io/badge/Cloud-Architect-CCE5FF)](#)
+[![Automation & AI](https://img.shields.io/badge/AI-Automation-F5E6CC)](#)
+[![Tech Lead](https://img.shields.io/badge/Tech-Lead-FFA07A)](#)
+[![Linux Admin](https://img.shields.io/badge/Linux-Admin-F0E68C)](#)
+[![SaaS Builder](https://img.shields.io/badge/SaaS-Builder-B0E0E6)](#)
 
-# Skills
-- Programming logic
-- Objected-oriented programming
-- Functional programming
+---
 
-I can work with several programming languages and frameworks as:
+## 👋 About Me
 
-- C 
-- C# (Unity engine)
-- PHP (Vanilla, FPM, Laravel, cake)
-- JAVA (swing, Vanilla, spring)
-- Javascript (Node, Angular, React, jQuery, Vanilla, etc)
+I’m a **full-stack engineer** and **technical lead** focused on delivering high-performance digital products — from web platforms to automation systems and multi-tenant SaaS applications.
 
-My main focus is web development so I do also domain:
+As the founder and principal developer at **3X Web**, I build modern solutions using:
 
-- HTML5 (XML, XHTML)
-- CSS (3, scss, less, etc)
-- SEO and indexing
-- Webservers (Linux, firebase, google cloud, AWS, Azure)
-- Networks and DNS
+* Next.js, React & TypeScript
+* Strapi & custom Node.js APIs
+* Prisma + MongoDB/PostgreSQL
+* React Native (Expo)
+* AI-powered automation workflows
+* AWS, Google Cloud, Firebase & Linux servers
 
-# What I do
-Generally speaking I can develop anything web-related using those technologies including but not limited to:
+I also study and research modern web technologies at *IFRN*, where I explore advanced development practices and intelligent automation patterns.
 
-- Website development
-- Ecommerce development
-- SEO consulting
-- Wordpress plugins
-- Mobile apps (Ionic Framework)
-- Single page apps (SPA)
-- Linux Server Admin
-- AWS management
-- Application deployment
+---
 
+## 🛠️ Tech Stack
 
-# Hire me
-You can hire me as a consultant for your large scale projects or as a developer for small-medium projects, as I have mentioned my main focus now
-is my research so I'm not available for regular positions at the moment.
+### **Frontend**
 
-## You can find some of my most recent works and my customers feedback here:
-- 99Freelas [Brazil](https://www.99freelas.com.br/user/3x-web)
-- freelancer.com [International](https://www.freelancer.com/u/douglasfullstack)
+* Next.js, React, Expo/React Native
+* TailwindCSS, ShadCN, Radix UI
+* Component-driven UI architecture
+* SSR / SSG / ISR, performance tuning
 
-> "Thought is the creative force"
+### **Backend**
+
+* Node.js (TypeScript), Express, Fastify
+* Strapi CMS (v4/v5)
+* Prisma ORM (MongoDB, PostgreSQL)
+* Authentication (JWT, OAuth, NextAuth)
+* API design, webhooks, background jobs
+
+### **Automation & AI**
+
+* n8n workflow automation
+* LLM integrations (OpenAI APIs)
+* Lead processing & business ops automation
+* AI-powered chat flows and agents
+
+### **DevOps & Cloud**
+
+* AWS, Google Cloud, Firebase
+* Linux server administration (Ubuntu, Caddy, Nginx)
+* Docker, PM2, GitHub Actions CI/CD
+* DNS, networking, Cloudflare Tunnels
+
+---
+
+## 💼 What I Build
+
+I specialize in architecting and developing end-to-end digital systems, including:
+
+* Web applications and dynamic dashboards
+* SaaS platforms (multi-tenant, subscription-based)
+* Ecommerce systems and integrations
+* WordPress plugins & custom solutions
+* Business automation systems (n8n / Node.js)
+* Mobile apps using Expo / React Native
+* High-performance APIs and backend services
+* Cloud infrastructure & deployment pipelines
+
+I enjoy solving **complex technical challenges** and building systems that scale.
+
+---
+
+## 📌 Professional Highlights
+
+* Lead developer for **multi-application ecosystems** involving dashboards, APIs, automation pipelines, and mobile apps.
+* Experience implementing **analytics engines**, **AB testing flows**, **reward/loyalty systems**, and **AI-assisted automation tools**.
+* Strong focus on clean architecture, maintainability, performance, and developer experience.
+* Built applications used by businesses across multiple countries and industries.
+
+---
+
+## 🤝 Work With Me
+
+I’m available for:
+
+* **Technical consulting**
+* **Full-stack development**
+* **Architecture planning**
+* **Automation & AI systems**
+* **Cloud engineering & deployments**
+
+Due to my academic research schedule, I currently accept **project-based and consulting roles** only.
+
+### 📎 Platforms
+
+* 🇧🇷 **99Freelas:** [https://www.99freelas.com.br/user/3x-web](https://www.99freelas.com.br/user/3x-web)
+* 🌍 **Freelancer.com:** [https://www.freelancer.com/u/douglasfullstack](https://www.freelancer.com/u/douglasfullstack)
+
+---
+
+## 🧠 Quote
+
+> *“Thought is the creative force.”*
